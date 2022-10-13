@@ -1,0 +1,31 @@
+body{
+    background: #f4f4f4;
+    margin: 0;
+}
+span{
+    float: right;
+   
+
+}
+
+header {
+    background: white;
+    padding: 15px;
+    
+}
+
+.primerDIV {
+    background: white;
+}
+h1 {
+    margin: 0;
+    text-indent: 30%;
+}
+.contenedor1 {
+    width: 700px;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
